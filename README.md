@@ -1,7 +1,4 @@
-# LangGraph Deep Dive Tutorial
-
-## Project Overview
-A comprehensive 3-hour hands-on tutorial designed to teach the fundamentals of LangGraph, a library for building stateful, multi-actor applications with LLMs. The tutorial focuses on practical, hands-on learning through progressive exercises.
+# LangGraph Tutorial
 
 ## Prerequisites
 - Python programming experience
